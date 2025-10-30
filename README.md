@@ -59,15 +59,6 @@ I’m open to **new challenges** and opportunities to keep improving as a develo
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fira0985&show_icons=true&theme=tokyonight" alt="Firafis's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fira0985&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
