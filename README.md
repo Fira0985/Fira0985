@@ -21,7 +21,7 @@ Next.js • NestJS • PostgreSQL • Node.js (advanced concepts)
 I’m always looking to **learn, grow, and work on meaningful projects** — whether it’s with a team or individually.  
 I’m open to **new challenges** and opportunities to keep improving as a developer.  
 
-📫 **Reach me at:** fira0985@gmail.com  
+📫 **Reach me at:** firafisberhanu4@gmail.com 
 
 ---
 
@@ -76,3 +76,4 @@ I’m open to **new challenges** and opportunities to keep improving as a develo
 ---
 
 ⭐️ *“Code with curiosity. Build with purpose. Learn without limits.”*
+
