@@ -21,7 +21,7 @@ Next.js • NestJS • PostgreSQL • Node.js (advanced concepts)
 I’m always looking to **learn, grow, and work on meaningful projects** — whether it’s with a team or individually.  
 I’m open to **new challenges** and opportunities to keep improving as a developer.  
 
-📫 **Reach me at:** firafisberhanu@gmail.com  
+📫 **Reach me at:** fira0985@gmail.com  
 
 ---
 
@@ -61,19 +61,26 @@ I’m open to **new challenges** and opportunities to keep improving as a develo
 
 ## 📊 GitHub Stats
 
-![Firafis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=firafisberhanu&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fira0985&show_icons=true&theme=tokyonight" alt="Firafis's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fira0985&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=firafisberhanu&theme=tokyonight&no-bg=true&no-frame=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fira0985&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## ⏳ Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=firafisberhanu&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Fira0985&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
